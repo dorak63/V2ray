@@ -1,7 +1,7 @@
-V2ray | Vmess | Trojan | Vless, [7/12/2024 5:30 PM]
-TROJAN 🇸🇪 (S112) TCP
+
+
 trojan://telegram-id-privatevpns@13.60.112.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
- 📚آموزش استفاده از سرورها (https://t.me/PrivateVPNs/18)
+
 🌐 @PrivateVPNs
 
 V2ray | Vmess | Trojan | Vless, [7/12/2024 6:00 PM]
